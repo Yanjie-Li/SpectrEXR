@@ -37,4 +37,5 @@ Imports:
     shinyWidgets,
     sp,
     terra
-    
+URL: https://github.com/Yanjie-Li/SpectrEXR
+BugReports: https://github.com/Yanjie-Li/SpectrEXR/issues
