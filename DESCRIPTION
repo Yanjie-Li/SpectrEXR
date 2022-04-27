@@ -1,0 +1,40 @@
+Package: SpectrEXR
+Title: What the Package Does (One Line, Title Case)
+Version: 0.1
+Authors@R: 
+    person("Yanjie", "Li", , "aj7105@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-7750-757X"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    shiny,
+    DT,
+    BiocManager,
+    EBImage,
+    RStoolbox,
+    data.table,
+    exactextractr,
+    lidR,
+    raster,
+    rasterVis,
+    rgdal,
+    sf,
+    sfheaders,
+    stars,
+    tictoc,
+    tidyverse,
+    tools,
+    viridis,
+    pkgload,
+    utils,
+    dplyr,
+    ggrepel,
+    librarian,
+    readr,
+    shinyWidgets,
+    sp,
+    terra
+    
